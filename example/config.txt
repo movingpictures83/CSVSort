@@ -1,0 +1,2 @@
+Prefix plugins/CSVSort/example
+Plugin CSVSort inputfile inputfile.csv outputfile outputfile.csv
